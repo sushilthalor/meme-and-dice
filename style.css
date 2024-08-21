@@ -1,0 +1,24 @@
+
+#url{
+    max-width: 30%;
+    
+}
+#title{
+    font-size: larger;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+}
+#author{
+    margin: 20px;
+    font-size: larger;
+    display: inline-block;
+    padding: 20px;
+}
+.img{
+    max-width: 1500px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+    align-items: center;
+}
